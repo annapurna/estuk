@@ -17,6 +17,9 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'cancan'
 
 gem 'paperclip'
+
+gem 'dotenv-rails', :group => [:development]
+
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
 
